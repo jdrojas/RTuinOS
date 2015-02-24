@@ -1,5 +1,6 @@
 RTuinOS, an Event based RTOS for the popular Arduino Platform
 =============================================================
+cloned by JD
 
 RTuinOS is a small scale real-time operating system for Arduino. The [main
 documentation](RTuinOS-1.0-UserGuide.pdf "manual") is found as
